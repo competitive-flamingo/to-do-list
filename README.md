@@ -1,5 +1,7 @@
 # TodoZen - A Minimal Todo App
 
+![TodoZen Screenshot](./project-image.png)
+
 A clean and intuitive todo application that helps you organize tasks into projects, set due dates, priorities, and never lose your progress with local storage.
 
 ## Features
