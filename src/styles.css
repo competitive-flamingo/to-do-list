@@ -3,6 +3,13 @@
   https://www.joshwcomeau.com/css/custom-css-reset/
 */
 
+@font-face {
+  font-family: 'Inter';
+  src: url('./fonts/InterVariable.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
   }
